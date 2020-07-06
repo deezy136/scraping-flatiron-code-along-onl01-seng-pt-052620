@@ -7,7 +7,7 @@ class Course
   end 
   
   def title 
-    
+    @title
   end 
   
   def schedule
