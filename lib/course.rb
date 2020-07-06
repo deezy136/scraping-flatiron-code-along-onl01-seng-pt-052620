@@ -26,7 +26,7 @@ class Course
     @schedule
   end 
   
-   def description
+   def description=(description)
     @description = description
   end 
   def description
